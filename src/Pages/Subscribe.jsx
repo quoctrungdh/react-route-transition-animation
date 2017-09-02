@@ -4,7 +4,6 @@ import { PagesHOC } from '../HOCs';
 
 class Subscribe extends React.Component {
 	render() {
-		console.log(this)
 		return (
 			<div>
 				<h2>We don't mind keeping you posted!</h2>
